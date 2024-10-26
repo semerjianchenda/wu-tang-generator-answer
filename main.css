@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box
+}
+body{
+    font-family: "Abril Fatface", sans-serif;
+    background: radial-gradient(#FFFF8F, #5fe562,  #51d8e1 );
+}
+h1{
+    font-size: 50px;
+    width: 50%;
+    margin-top: 300px;
+    text-align: center;
+    border: 5px double black;
+    margin-left: 400px;
+}
+section{
+    text-align: center;
+}
+button{
+    margin-top: 30px;
+    margin-left: 650px;
+    cursor: pointer;
+    font-weight: bold;
+}
+h3{
+    margin-left: 630px;
+    font-size: 30px;
+}
